@@ -1,0 +1,3 @@
+rootProject.name = 'leetcodejava'
+include 'commons'
+
