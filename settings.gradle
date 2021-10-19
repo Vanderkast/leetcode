@@ -1,3 +1,4 @@
 rootProject.name = 'leetcodejava'
 include 'commons'
+include '496'
 
