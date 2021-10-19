@@ -12,7 +12,7 @@ public class NextGreaterElementISolution implements NextGreaterElementI {
         int iLen = nums1.length;
         HashMap<Integer, Integer> nums1Map = new HashMap<>(iLen);
         var ans = new int[iLen];
-        for (int i = 0; i < iLen; i++) {
+        for (int i = 0; i < iLen; ++i) {
             nums1Map.put(nums1[i], i);
             ans[i] = -1;
         }

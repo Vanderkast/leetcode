@@ -10,7 +10,7 @@ public class NextGreaterElementIBruteForce implements NextGreaterElementI {
         int jSubLen = jNums.length - 1;
 
         int j, iTmp, jTmp, nextGreater;
-        for (int i = 0; i < iLen; i++) {
+        for (int i = 0; i < iLen; ++i) {
             iTmp = iNums[i];
             nextGreater = -1;
             j = jSubLen;
