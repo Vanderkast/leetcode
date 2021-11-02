@@ -14,3 +14,8 @@ This is my [leetcode](https://leetcode.com/Vanderkast/) solutions.
 
 *REC - Relative Execution Time. How many percents my solution beats others' by performance.  
 **RMC - Relative Memory consumption. How many percents my solution beats others' by memory consumption.
+
+### Some things to note
+
+Problems that was solved with Rust language have source directories starting with letter `r`. For example: `r977` (_Squares of a
+Sorted Array_ problem). 
