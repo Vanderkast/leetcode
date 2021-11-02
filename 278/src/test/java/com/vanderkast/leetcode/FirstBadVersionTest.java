@@ -2,8 +2,12 @@ package com.vanderkast.leetcode;
 
 import org.junit.jupiter.api.Test;
 
+import static org.junit.jupiter.api.Assertions.assertEquals;
+import static org.junit.jupiter.api.Assertions.assertTrue;
+
 class FirstBadVersionTest {
     void test(int n, int badVersion) {
+        assertTrue(n >= badVersion);
         assertEquals(badVersion, new FirstBadVersion(badVersion).firstBadVersion(n));
     }
 

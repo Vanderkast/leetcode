@@ -13,7 +13,7 @@ public class FirstBadVersion extends VersionControl {
         int middle;
         boolean previous, cursor;
         while (a != b) {
-            middle = (a + b) / 2;
+            middle = a / 2 + b / 2;
             cursor = isBadVersion(middle);
             previous = isBadVersion(middle - 1);
             if (!previous && cursor)

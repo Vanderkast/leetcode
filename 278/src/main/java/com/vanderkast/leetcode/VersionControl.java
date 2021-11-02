@@ -8,6 +8,6 @@ public class VersionControl {
     }
 
     boolean isBadVersion(int version) {
-        return badVersion == version;
+        return badVersion <= version;
     }
 }
