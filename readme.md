@@ -11,6 +11,7 @@ This is my [leetcode](https://leetcode.com/Vanderkast/) solutions.
 | [704](https://leetcode.com/problems/binary-search/) | O(log(n)) | 100 | 49.07 | java |
 | [278](https://leetcode.com/problems/first-bad-version/) | O(log(n)) | 25.45 | 93.34 | java |
 | [35](https://leetcode.com/problems/search-insert-position/) | O(log(n)) | 100 | 87.26 | java |
+| [129](https://leetcode.com/problems/search-insert-position/) | ~O(n) | 100 | 64.91 | java |
 
 *REC - Relative Execution Time. How many percents my solution beats others' by performance.  
 **RMC - Relative Memory consumption. How many percents my solution beats others' by memory consumption.
