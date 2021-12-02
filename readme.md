@@ -13,6 +13,7 @@ This is my [leetcode](https://leetcode.com/Vanderkast/) solutions.
 | [35](https://leetcode.com/problems/search-insert-position/) | O(log(n)) | 100 | 87.26 | java |
 | [129](https://leetcode.com/problems/sum-root-to-leaf-numbers/) | ~O(n) | 100 | 64.91 | java |
 | *[404](https://leetcode.com/problems/sum-of-left-leaves/)* | ~O(n) | 100 | 53.62 | java |
+| [r53](https://leetcode.com/problems/maximum-subarray/) | O(n) | 100 | 70.59 | rust |
 | [r448](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/) | O(n) | 100 | 70.59 | rust |
 | [r540](https://leetcode.com/problems/single-element-in-a-sorted-array/) | O(log(n)) | 100 | 90.91 | rust |
 
