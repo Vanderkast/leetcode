@@ -1,6 +1,7 @@
 [workspace]
 
 members = [
+    "r328",
     "r448",
     "r540"
 ]
