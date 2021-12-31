@@ -1,11 +1,4 @@
 rootProject.name = 'leetcodejava'
-include 'commons'
-include '496'
-include '380'
-include '704'
-include '278'
-include '35'
-include '129'
-include '404'
-include 'middle-of-the-linked-list'
 
+include 'commons'
+include 'java-solutions'
