@@ -8,7 +8,7 @@ Prefix symbol in problem number indicates program language that was used to solv
 1. `j` - java
 2. `r` - rust
 
-| Problem                                                                             | Result    | REC*  | RMC** |
+| Problem                                                                             | Result    | RET*  | RMC** |
 |-------------------------------------------------------------------------------------|-----------|-------|-------|
 | [j496](https://leetcode.com/problems/next-greater-element-i/)                       | O(n)      | 89.26 | 80.26 |
 | [j380](https://leetcode.com/problems/insert-delete-getrandom-o1/)                   | ~O(1)     | 41.00 | 38.41 |
@@ -22,5 +22,5 @@ Prefix symbol in problem number indicates program language that was used to solv
 | [j876](https://leetcode.com/problems/middle-of-the-linked-list/)                    | O(n)      | 100   | 59.27 |
 | [j1640](https://leetcode.com/problems/check-array-formation-through-concatenation/) | O(n)      | 100   | 94.82 |
 
-*REC - Relative Execution Time. How many percents my solution beats others' by performance.  
-**RMC - Relative Memory consumption. How many percents my solution beats others' by memory consumption.
+*RET - Relative Execution Time. How many percents my solution beats others' by performance.  
+**RMC - Relative Memory Consumption. How many percents my solution beats others' by memory consumption.
