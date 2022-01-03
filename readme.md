@@ -22,6 +22,7 @@ Prefix symbol in problem number indicates program language that was used to solv
 | [j876](https://leetcode.com/problems/middle-of-the-linked-list/)                            | O(n)      | 100   | 59.27 |
 | [j1640](https://leetcode.com/problems/check-array-formation-through-concatenation/)         | O(n)      | 100   | 94.82 |
 | [j1010](https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60/) | O(n)      | 99.65 | 55.34 |
+| [j997](https://leetcode.com/problems/find-the-town-judge/)                                  | O(n)      | 81.43 | 11.3  |
 
 *RET - Relative Execution Time. How many percents my solution beats others' by performance.  
 **RMC - Relative Memory Consumption. How many percents my solution beats others' by memory consumption.
