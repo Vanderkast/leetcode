@@ -2,5 +2,6 @@
 
 members = [
     "r448",
-    "r540"
+    "r540",
+    "rust_solutions"
 ]
