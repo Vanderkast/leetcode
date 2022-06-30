@@ -24,6 +24,7 @@ Prefix symbol in problem number indicates program language that was used to solv
 | [j1010](https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60/) | O(n)      | 99.65 | 55.34 |
 | [j997](https://leetcode.com/problems/find-the-town-judge/)                                  | O(n)      | 81.43 | 11.3  |
 | [r1009](https://leetcode.com/problems/complement-of-base-10-integer/)                       | O(n)      | 100   | 25    |
+| [j55](https://leetcode.com/problems/jump-game/)                                             | O(n)      | 91.63 | 90.29 |
 
 *RET - Relative Execution Time. How many percents my solution beats others' by performance.  
 **RMC - Relative Memory Consumption. How many percents my solution beats others' by memory consumption.
