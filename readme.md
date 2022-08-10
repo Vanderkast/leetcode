@@ -5,6 +5,7 @@ This is my [leetcode](https://leetcode.com/Vanderkast/) solutions.
 ### Solved problems
 
 Prefix symbol in problem number indicates program language that was used to solve problem:
+
 1. `j` - java
 2. `r` - rust
 
@@ -29,6 +30,7 @@ Prefix symbol in problem number indicates program language that was used to solv
 | [j39](https://leetcode.com/problems/combination-sum/)                                       | O(n^2)    | 95.48 | 25.18 |
 | [j435](https://leetcode.com/problems/poor-pigs/)                                            | O(1)      | 95.48 | 25.18 |
 | [j1220](https://leetcode.com/problems/count-vowels-permutation/)                            | O(n)      | 88.24 | 92.29 |
+| [j108](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)           | O(n)      | 100   | 31.42 |
 
 *RET - Relative Execution Time. How many percents my solution beats others' by performance.  
 **RMC - Relative Memory Consumption. How many percents my solution beats others' by memory consumption.
