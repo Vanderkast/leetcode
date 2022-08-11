@@ -20,7 +20,7 @@ public class TreeNode {
         this.right = right;
     }
 
-    public static TreeNode  from(Integer[] values) {
+    public static TreeNode from(Integer[] values) {
         var size = values.length;
         if (size == 0)
             return null;
