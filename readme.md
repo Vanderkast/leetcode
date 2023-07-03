@@ -36,6 +36,7 @@ Prefix symbol in problem number indicates program language that was used to solv
 | [j121](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)                      | O(n)      | 93.7  | 69.32 |
 | [j392](https://leetcode.com/problems/is-subsequence/)                                       | O(n)      | 88.45 | 98.36 |
 | [j64](https://leetcode.com/problems/minimum-path-sum/)                                      | O(n)      | 77.41 | 90.83 |
+| [j64](https://leetcode.com/problems/minimum-path-sum/)                                      | O(n)      | 77.41 | 90.83 |
 
 *RET - Relative Execution Time. How many percents my solution beats others' by performance.  
 **RMC - Relative Memory Consumption. How many percents my solution beats others' by memory consumption.
