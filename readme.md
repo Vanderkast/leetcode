@@ -37,6 +37,7 @@ Prefix symbol in problem number indicates program language that was used to solv
 | [j392](https://leetcode.com/problems/is-subsequence/)                                       | O(n)      | 88.45 | 98.36 |
 | [j64](https://leetcode.com/problems/minimum-path-sum/)                                      | O(n)      | 77.41 | 90.83 |
 | [j62](https://leetcode.com/problems/unique-paths/)                                          | O(n)      | 100   | 39.2  |
+| [j174](https://leetcode.com/problems/dungeon-game/)                                         | O(n)      | 97.9  | 63.86 |
 
 *RET - Relative Execution Time. How many percents my solution beats others' by performance.  
 **RMC - Relative Memory Consumption. How many percents my solution beats others' by memory consumption.
