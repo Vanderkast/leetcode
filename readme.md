@@ -34,6 +34,7 @@ Prefix symbol in problem number indicates program language that was used to solv
 | [j98](https://leetcode.com/problems/validate-binary-search-tree/)                           | O(n)      | 100   | 63.52 |
 | [j746](https://leetcode.com/problems/min-cost-climbing-stairs/)                             | O(n)      | 100   | 33.8  |
 | [j121](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)                      | O(n)      | 93.7  | 69.32 |
+| [j392](https://leetcode.com/problems/is-subsequence/)                                       | O(n)      | 88.45 | 98.36 |
 
 *RET - Relative Execution Time. How many percents my solution beats others' by performance.  
 **RMC - Relative Memory Consumption. How many percents my solution beats others' by memory consumption.
