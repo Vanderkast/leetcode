@@ -42,6 +42,7 @@ Prefix symbol in problem number indicates program language that was used to solv
 | [j209](https://leetcode.com/problems/minimum-size-subarray-sum/)                            | O(n)      | 100   | 201   |
 | [j852](https://leetcode.com/problems/peak-index-in-a-mountain-array/)                       | O(log(n)) | 100   | 96.49 |
 | [j136](https://leetcode.com/problems/single-number/)                                        | O(n)      | 100   | 81.54 |
+| [j389](https://leetcode.com/problems/find-the-difference/)                                  | O(n)      | 45.22 | 96.42 |
 
 *RET - Relative Execution Time. How many percents my solution beats others' by performance.  
 **RMC - Relative Memory Consumption. How many percents my solution beats others' by memory consumption.
