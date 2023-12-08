@@ -45,6 +45,7 @@ Prefix symbol in problem number indicates program language that was used to solv
 | [j389](https://leetcode.com/problems/find-the-difference/)                                  | O(n)      | 45.22 | 96.42 |
 | [j1688](https://leetcode.com/problems/count-of-matches-in-tournament/)                      | O(log(n)) | 100   | 92.99 |
 | [j1716](https://leetcode.com/problems/calculate-money-in-leetcode-bank)                     | O(1)      | 100   | 35    |
+| [j606](https://leetcode.com/problems/construct-string-from-binary-tree/)                    | O(1)      | 100   | 94.32 |
 
 *RET - Relative Execution Time. How many percents my solution beats others' by performance.  
 **RMC - Relative Memory Consumption. How many percents my solution beats others' by memory consumption.
