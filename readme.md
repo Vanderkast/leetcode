@@ -48,6 +48,7 @@ Prefix symbol in problem number indicates program language that was used to solv
 | [j606](https://leetcode.com/problems/construct-string-from-binary-tree/)                    | O(1)      | 100   | 94.32 |
 | [j1287](https://leetcode.com/problems/element-appearing-more-than-25-in-sorted-array/)      | O(1)      | 100   | 64.85 |
 | [j867](https://leetcode.com/problems/transpose-matrix/)                                     | O(m*n)    | 100   | 24.91 |
+| [j343](https://leetcode.com/problems/integer-break/)                                        | O(1)      | 100   | 5.35  |
 
 *RET - Relative Execution Time. How many percents my solution beats others' by performance.  
 **RMC - Relative Memory Consumption. How many percents my solution beats others' by memory consumption.
