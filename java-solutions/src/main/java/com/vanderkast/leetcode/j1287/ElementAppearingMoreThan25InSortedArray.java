@@ -1,4 +1,4 @@
-package com.vanderkast.leetcode.j1287.j1287;
+package com.vanderkast.leetcode.j1287;
 
 public class ElementAppearingMoreThan25InSortedArray {
     public int findSpecialInteger(int[] arr) {

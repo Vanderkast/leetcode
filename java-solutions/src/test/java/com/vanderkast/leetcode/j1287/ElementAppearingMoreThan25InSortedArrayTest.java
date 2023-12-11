@@ -1,4 +1,4 @@
-package com.vanderkast.leetcode.j1287.j1287;
+package com.vanderkast.leetcode.j1287;
 
 import org.junit.jupiter.params.ParameterizedTest;
 import org.junit.jupiter.params.provider.Arguments;
