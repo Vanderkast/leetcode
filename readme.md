@@ -51,6 +51,7 @@ Prefix symbol in problem number indicates program language that was used to solv
 | [j343](https://leetcode.com/problems/integer-break/)                                              | O(1)      | O(1)   | 100   | 5.35  |
 | [j1464](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/)               | O(n)      | O(1)   | 100   | 33.98 |
 | [j1903](https://leetcode.com/problems/largest-odd-number-in-string/) Largest Odd Number in String | O(n)      | O(1)   | 100   | 76.57 |
+| [j22](https://leetcode.com/problems/generate-parentheses/) Generate Parentheses                   | O(n)      | O(n^2) | 100   | 80.41 |
 
 *RET - Relative Execution Time. How many percents my solution beats others' by performance.  
 **RMC - Relative Memory Consumption. How many percents my solution beats others' by memory consumption.
