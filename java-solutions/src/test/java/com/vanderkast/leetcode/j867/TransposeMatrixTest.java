@@ -6,6 +6,8 @@ import org.junit.jupiter.params.provider.MethodSource;
 
 import java.util.stream.Stream;
 
+import static com.vanderkast.leetcode.tools.Matrix.line;
+import static com.vanderkast.leetcode.tools.Matrix.matrix;
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
 class TransposeMatrixTest {
@@ -52,13 +54,5 @@ class TransposeMatrixTest {
                                 line(3, 6)
                         ))
         );
-    }
-
-    static int[][] matrix(int[]... lines) {
-        return lines;
-    }
-
-    static int[] line(int... elems) {
-        return elems;
     }
 }
