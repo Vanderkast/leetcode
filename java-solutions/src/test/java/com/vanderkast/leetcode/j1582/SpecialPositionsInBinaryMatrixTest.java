@@ -6,7 +6,7 @@ import org.junit.jupiter.params.provider.MethodSource;
 
 import java.util.stream.Stream;
 
-import static com.vanderkast.leetcode.tools.Matrix.line;
+import static com.vanderkast.leetcode.tools.Matrix.row;
 import static com.vanderkast.leetcode.tools.Matrix.matrix;
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
@@ -79,10 +79,10 @@ class SpecialPositionsInBinaryMatrixTest {
 //                ),
                 Arguments.arguments(
                         matrix(
-                                line(0, 0, 1, 0),
-                                line(0, 0, 0, 0),
-                                line(0, 0, 0, 0),
-                                line(0, 1, 0, 0)
+                                row(0, 0, 1, 0),
+                                row(0, 0, 0, 0),
+                                row(0, 0, 0, 0),
+                                row(0, 1, 0, 0)
                         ),
                         2
                 )
