@@ -63,6 +63,7 @@ Prefix symbol in problem number indicates program language that was used to solv
 | [j1582](https://leetcode.com/problems/jump-game-ii/) Special Positions in a Binary Matrix                                                       | O(n^2)    | O(n)   | 99.75 |
 | [j53](https://leetcode.com/problems/maximum-subarray/) Maximum Subarray                                                                         | O(n)      | O(1)   | 100   |
 | [j2482](https://leetcode.com/problems/difference-between-ones-and-zeros-in-row-and-column/) Difference Between Ones and Zeros in Row and Column | O(n)      | O(n)   | 86.73 |
-| [j91](https://leetcode.com/problems/decode-ways/) Decode Ways                                                                                   | O(n)      | O(1)   | 100   |
+| [j91](https://leetcode.com/problems/decode-ways/) Decode Ways                                                                                   | O(n)      | O(n)   | 100   |
+| [j1436](https://leetcode.com/problems/destination-city/) Decode Ways                                                                            | O(n)      | O(1)   | 100   |
 
 *RET - Relative Execution Time. How many percents my solution beats others' by performance.
