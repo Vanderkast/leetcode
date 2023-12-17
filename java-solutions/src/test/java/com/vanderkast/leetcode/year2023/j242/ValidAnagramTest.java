@@ -1,5 +1,6 @@
-package com.vanderkast.leetcode.j242;
+package com.vanderkast.leetcode.year2023.j242;
 
+import com.vanderkast.leetcode.year2023.j242.ValidAnagram;
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.*;
