@@ -66,5 +66,6 @@ Prefix symbol in problem number indicates program language that was used to solv
 | [j91](https://leetcode.com/problems/decode-ways/) Decode Ways                                                                                   | O(n)      | O(n)   | 100   |
 | [j1436](https://leetcode.com/problems/destination-city/) Destination City                                                                       | O(n)      | O(1)   | 100   |
 | [j263](https://leetcode.com/problems/ugly-number/) Ugly Number                                                                                  | O(n)      | O(1)   | 90.66 |
+| [j242](https://leetcode.com/problems/valid-anagram/) Valid Anagram                                                                              | O(n)      | O(1)   | 54.57 |
 
 *RET - Relative Execution Time. How many percents my solution beats others' by performance.
