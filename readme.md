@@ -68,5 +68,6 @@ Prefix symbol in problem number indicates program language that was used to solv
 | [j263](https://leetcode.com/problems/ugly-number/) Ugly Number                                                                                  | O(n)      | O(1)   | 90.66 |
 | [j242](https://leetcode.com/problems/valid-anagram/) Valid Anagram                                                                              | O(n)      | O(1)   | 54.57 |
 | [j2353](https://leetcode.com/problems/design-a-food-rating-system/) Design a Food Rating System                                                 | -         | O(n)   | 51.73 |
+| [j1913](https://leetcode.com/problems/maximum-product-difference-between-two-pairs/) Maximum Product Difference Between Two Pairs               | O(n)      | O(1)   | 97.51 |
 
 *RET - Relative Execution Time. How many percents my solution beats others' by performance.
