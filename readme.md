@@ -71,5 +71,6 @@ Prefix symbol in problem number indicates program language that was used to solv
 | [j1913](https://leetcode.com/problems/maximum-product-difference-between-two-pairs/) Maximum Product Difference Between Two Pairs               | O(n)      | O(1)   | 97.51 |
 | [j661](https://leetcode.com/problems/image-smoother/) Image Smoother                                                                            | O(m*n)    | O(m*n) | 80.11 |
 | [j120](https://leetcode.com/problems/triangle/) Triangle                                                                                        | O(n)      | O(1)   | 35.64 |
+| [j2706](https://leetcode.com/problems/buy-two-chocolates/) Buy Two Chocolates                                                                   | O(n)      | O(1)   | 100   |
 
 *RET - Relative Execution Time. How many percents my solution beats others' by performance.
