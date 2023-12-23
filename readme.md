@@ -73,6 +73,6 @@ Prefix symbol in problem number indicates program language that was used to solv
 | [j120](https://leetcode.com/problems/triangle/) Triangle                                                                                                          | O(n)       | O(1)   | 35.64 |
 | [j2706](https://leetcode.com/problems/buy-two-chocolates/) Buy Two Chocolates                                                                                     | O(n)       | O(1)   | 100   |
 | [j1637](https://leetcode.com/problems/widest-vertical-area-between-two-points-containing-no-points/) Widest Vertical Area Between Two Points Containing No Points | O(nlog(n)) | O(n)   | 98.08 |
-| [j1422](https://leetcode.com/problems/maximum-score-after-splitting-a-string/) Maximum Score After Splitting a String                                             | O(n)       | O(1)   | 97.78 |
+| [j1496](https://leetcode.com/problems/path-crossing/) Path Crossing                                                                                               | O(n)       | O(n)   | 100   |
 
 *RET - Relative Execution Time. How many percents my solution beats others' by performance.
