@@ -75,5 +75,6 @@ Prefix symbol in problem number indicates program language that was used to solv
 | [j1637](https://leetcode.com/problems/widest-vertical-area-between-two-points-containing-no-points/) Widest Vertical Area Between Two Points Containing No Points | O(nlog(n)) | O(n)   | 98.08 |
 | [j1496](https://leetcode.com/problems/path-crossing/) Path Crossing                                                                                               | O(n)       | O(n)   | 100   |
 | [j1758](https://leetcode.com/problems/minimum-changes-to-make-alternating-binary-string/) Minimum Changes To Make Alternating Binary String                       | O(n)       | O(1)   | 74.75 |
+| [j1578](https://leetcode.com/problems/minimum-time-to-make-rope-colorful/) Minimum Time to Make Rope Colorful                                                     | O(n)       | O(1)   | 61.18 |
 
 *RET - Relative Execution Time. How many percents my solution beats others' by performance.
