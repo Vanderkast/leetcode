@@ -1,7 +1,5 @@
 package com.vanderkast.leetcode.year2023.j1347;
 
-import java.util.HashMap;
-
 public class MinimumNumberOfStepsToMakeTwoStringsAnagram {
     public int minSteps(String s, String t) {
         int[] box = new int[26];

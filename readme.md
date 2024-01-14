@@ -78,5 +78,6 @@ Prefix symbol in problem number indicates program language that was used to solv
 | [j1578](https://leetcode.com/problems/minimum-time-to-make-rope-colorful/) Minimum Time to Make Rope Colorful                                                     | O(n)       | O(1)   | 61.18 |
 | [j1704](https://leetcode.com/problems/determine-if-string-halves-are-alike/) Determine if String Halves Are Alike                                                 | O(n)       | O(1)   | 42.07 |
 | [j1347](https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram/) Minimum Number of Steps to Make Two Strings Anagram                   | O(n)       | O(1)   | 90.58 |
+| [j1657](https://leetcode.com/problems/determine-if-two-strings-are-close/) Determine if Two Strings Are Close                                                     | O(n)       | O(1)   | 78.03 |
 
 *RET - Relative Execution Time. How many percents my solution beats others' by performance.
