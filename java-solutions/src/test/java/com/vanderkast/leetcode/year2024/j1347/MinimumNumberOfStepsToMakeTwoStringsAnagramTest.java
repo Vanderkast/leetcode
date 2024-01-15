@@ -1,5 +1,6 @@
-package com.vanderkast.leetcode.year2023.j1347;
+package com.vanderkast.leetcode.year2024.j1347;
 
+import com.vanderkast.leetcode.year2024.j1347.MinimumNumberOfStepsToMakeTwoStringsAnagram;
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.*;

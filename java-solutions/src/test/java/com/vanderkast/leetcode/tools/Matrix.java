@@ -1,9 +1,37 @@
 package com.vanderkast.leetcode.tools;
 
-import static org.junit.jupiter.api.Assertions.*;
+import java.util.Arrays;
+
+import static org.junit.jupiter.api.Assertions.assertArrayEquals;
+import static org.junit.jupiter.api.Assertions.assertEquals;
 
 public class Matrix {
     private Matrix() {
+    }
+
+    public static int[][] matrix(String view) {
+        if (view.charAt(0) != '[')
+            throw new IllegalArgumentException("Row view must start with \"[\"");
+        if (view.charAt(view.length() - 1) != ']')
+            throw new IllegalArgumentException("Row view must start with \"[\"");
+        if (view.length() == 2)
+            return new int[][]{};
+        String[] rows = view.substring(1, view.length() - 1).split("],\\s*\\[");
+        int[][] matrix = new int[rows.length][];
+        for (int i = 0; i < matrix.length; i++)
+            matrix[i] = row(rows[i]);
+        return matrix;
+    }
+
+    public static int[] row(String view) {
+        if (view.length() == 2)
+            return new int[]{};
+        int from = view.startsWith("[") ? 1 : 0;
+        int to = view.length() - (view.endsWith("]") ? 1 : 0);
+        return Arrays.stream(view.substring(from, to)
+                        .split(",\\s*"))
+                .mapToInt(Integer::valueOf)
+                .toArray();
     }
 
     public static int[][] matrix(int[]... lines) {

@@ -1,5 +1,6 @@
-package com.vanderkast.leetcode.year2023.j1704;
+package com.vanderkast.leetcode.year2024.j1704;
 
+import com.vanderkast.leetcode.year2024.j1704.DetermineIfStringHalvesAreAlike;
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.*;

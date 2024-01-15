@@ -1,4 +1,4 @@
-package com.vanderkast.leetcode.year2023.j1704;
+package com.vanderkast.leetcode.year2024.j1704;
 
 import java.util.Set;
 

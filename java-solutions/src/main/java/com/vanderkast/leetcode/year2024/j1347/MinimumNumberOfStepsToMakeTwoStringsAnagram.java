@@ -1,4 +1,4 @@
-package com.vanderkast.leetcode.year2023.j1347;
+package com.vanderkast.leetcode.year2024.j1347;
 
 public class MinimumNumberOfStepsToMakeTwoStringsAnagram {
     public int minSteps(String s, String t) {

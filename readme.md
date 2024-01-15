@@ -80,5 +80,6 @@ Prefix symbol in problem number indicates program language that was used to solv
 | [j1704](https://leetcode.com/problems/determine-if-string-halves-are-alike/) Determine if String Halves Are Alike                                                 | O(n)       | O(1)   | 42.07 |
 | [j1347](https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram/) Minimum Number of Steps to Make Two Strings Anagram                   | O(n)       | O(1)   | 90.58 |
 | [j1657](https://leetcode.com/problems/determine-if-two-strings-are-close/) Determine if Two Strings Are Close                                                     | O(n)       | O(1)   | 78.03 |
+| [j2225](https://leetcode.com/problems/find-players-with-zero-or-one-losses/) Find Players With Zero or One Losses                                                 | O(n)       | O(n)   | 78.03 |
 
 *RET - Relative Execution Time. How many percents my solution beats others' by performance.
