@@ -84,6 +84,7 @@ Prefix symbol in problem number indicates program language that was used to solv
 | [j1207](https://leetcode.com/problems/unique-number-of-occurrences/) Unique Number of Occurrences                                                                 | O(n)       | O(1)   | 98.10 |
 | [j168](https://leetcode.com/problems/excel-sheet-column-title/) Excel Sheet Column Title                                                                          | O(n)       | O(1)   | 100   |
 | [j931](https://leetcode.com/problems/minimum-falling-path-sum/) Minimum Falling Path Sum                                                                          | O(n)       | O(1)   | 68.64 |
-| [1289](https://leetcode.com/problems/minimum-falling-path-sum-ii/) Minimum Falling Path Sum II                                                                    | O(n)       | O(1)   | 96.41 |
+| [j1289](https://leetcode.com/problems/minimum-falling-path-sum-ii/) Minimum Falling Path Sum II                                                                   | O(n)       | O(1)   | 96.41 |
+| (Retry) [j496](https://leetcode.com/problems/next-greater-element-i/) Next Greater Element I                                                                      | O(n+m)     | O(n)   | 98.86 |
 
 *RET - Relative Execution Time. How many percents my solution beats others' by performance.
