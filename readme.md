@@ -89,5 +89,6 @@ Prefix symbol in problem number indicates program language that was used to solv
 | [j198](https://leetcode.com/problems/house-robber/) House Robber                                                                                                      | O(n)       | O(1)   | 100   |
 | [j645](https://leetcode.com/problems/set-mismatch/) Set Mismatch                                                                                                      | O(n)       | O(n)   | 97.74 |
 | [j1239](https://leetcode.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters/) Maximum Length of a Concatenated String with Unique Characters | O(n)       | O(n)   | 100   |
+| [j1457](https://leetcode.com/problems/pseudo-palindromic-paths-in-a-binary-tree/) Pseudo-Palindromic Paths in a Binary Tree                                           | O(n)       | O(n)   | 100   |
 
 *RET - Relative Execution Time. How many percents my solution beats others' by performance.
