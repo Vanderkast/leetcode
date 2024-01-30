@@ -92,5 +92,6 @@ Prefix symbol in problem number indicates program language that was used to solv
 | [j1457](https://leetcode.com/problems/pseudo-palindromic-paths-in-a-binary-tree/) Pseudo-Palindromic Paths in a Binary Tree                                           | O(n)       | O(n)   | 100   |
 | [j1143](https://leetcode.com/problems/longest-common-subsequence/) Longest Common Subsequence                                                                         | O(n*m)     | O(n*m) | 67.33 |
 | [j232](https://leetcode.com/problems/implement-queue-using-stacks/) Implement Queue using Stacks                                                                      | -          | O(n)   | 100   |
+| [j150](https://leetcode.com/problems/evaluate-reverse-polish-notation/) Evaluate Reverse Polish Notation                                                              | O(n)       | O(n)   | 97.05 |
 
 *RET - Relative Execution Time. How many percents my solution beats others' by performance.
