@@ -1,6 +1,5 @@
 package com.vanderkast.leetcode.year2024.j150;
 
-import org.junit.jupiter.api.Disabled;
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
@@ -18,7 +17,7 @@ class EvaluateReversePolishNotationTest {
 
     @Test
     void leetcodeExample2() {
-        var tokens = new String[]{"4","13","5","/","+"};
+        var tokens = new String[]{"4", "13", "5", "/", "+"};
         var expected = 6;
         var actual = solution.evalRPN(tokens);
         assertEquals(expected, actual);
@@ -26,7 +25,7 @@ class EvaluateReversePolishNotationTest {
 
     @Test
     void leetcodeExample3() {
-        var tokens = new String[]{"10","6","9","3","+","-11","*","/","*","17","+","5","+"};
+        var tokens = new String[]{"10", "6", "9", "3", "+", "-11", "*", "/", "*", "17", "+", "5", "+"};
         var expected = 22;
         var actual = solution.evalRPN(tokens);
         assertEquals(expected, actual);
