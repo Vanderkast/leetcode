@@ -95,5 +95,6 @@ Prefix symbol in problem number indicates program language that was used to solv
 | [j150](https://leetcode.com/problems/evaluate-reverse-polish-notation/) Evaluate Reverse Polish Notation                                                              | O(n)        | O(n)   | 97.05 |
 | [j739](https://leetcode.com/problems/daily-temperatures/) Daily Temperatures                                                                                          | O(n)        | O(n)   | 96.15 |
 | [j2966](https://leetcode.com/problems/divide-array-into-arrays-with-max-difference/) Divide Array Into Arrays With Max Difference                                     | O(n*log(n)) | O(n)   | 99.06 |
+| [j1291](https://leetcode.com/problems/sequential-digits/)  Sequential Digits                                                                                          | O(n)        | O(1)   | 100   |
 
 *RET - Relative Execution Time. How many percents my solution beats others' by performance.
