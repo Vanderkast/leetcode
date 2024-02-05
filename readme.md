@@ -96,5 +96,6 @@ Prefix symbol in problem number indicates program language that was used to solv
 | [j739](https://leetcode.com/problems/daily-temperatures/) Daily Temperatures                                                                                          | O(n)        | O(n)   | 96.15 |
 | [j2966](https://leetcode.com/problems/divide-array-into-arrays-with-max-difference/) Divide Array Into Arrays With Max Difference                                     | O(n*log(n)) | O(n)   | 99.06 |
 | [j1043](https://leetcode.com/problems/partition-array-for-maximum-sum/) Sequential Digits                                                                             | O(n*k)      | O(n)   | 93.17 |
+| [j387](https://leetcode.com/problems/first-unique-character-in-a-string/submissions/) Sequential Digits                                                               | O(n)        | O(1)   | 77.52 |
 
 *RET - Relative Execution Time. How many percents my solution beats others' by performance.
