@@ -99,5 +99,6 @@ Prefix symbol in problem number indicates program language that was used to solv
 | [j387](https://leetcode.com/problems/first-unique-character-in-a-string/) Sequential Digits                                                                           | O(n)        | O(1)   | 77.52 |
 | [j451](https://leetcode.com/problems/sort-characters-by-frequency/) Sort Characters By Frequency                                                                      | O(n)        | O(1)   | 99.36 |
 | [j647](https://leetcode.com/problems/palindromic-substrings/) Palindromic Substrings                                                                                  | O(n^2)      | O(n^2) | 38.85 |
+| [j169](https://leetcode.com/problems/majority-element/) Majority Element                                                                                              | O(n)        | O(n)   | 36.34 |
 
 *RET - Relative Execution Time. How many percents my solution beats others' by performance.
