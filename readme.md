@@ -100,5 +100,6 @@ Prefix symbol in problem number indicates program language that was used to solv
 | [j451](https://leetcode.com/problems/sort-characters-by-frequency/) Sort Characters By Frequency                                                                      | O(n)        | O(1)   | 99.36 |
 | [j647](https://leetcode.com/problems/palindromic-substrings/) Palindromic Substrings                                                                                  | O(n^2)      | O(n^2) | 38.85 |
 | [j169](https://leetcode.com/problems/majority-element/) Majority Element                                                                                              | O(n)        | O(n)   | 36.34 |
+| [j2108](https://leetcode.com/problems/find-first-palindromic-string-in-the-array/) Find First Palindromic String in the Array                                         | O(n)        | O(n)   | 100   |
 
 *RET - Relative Execution Time. How many percents my solution beats others' by performance.
