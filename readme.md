@@ -102,5 +102,6 @@ Prefix symbol in problem number indicates program language that was used to solv
 | [j169](https://leetcode.com/problems/majority-element/) Majority Element                                                                                              | O(n)        | O(n)   | 36.34 |
 | [j2108](https://leetcode.com/problems/find-first-palindromic-string-in-the-array/) Find First Palindromic String in the Array                                         | O(n)        | O(n)   | 100   |
 | [j2971](https://leetcode.com/problems/find-polygon-with-the-largest-perimeter/) Find Polygon With the Largest Perimeter                                               | O(n*log(n)) | O(1)   | 98.63 |
+| [j1481](https://leetcode.com/problems/least-number-of-unique-integers-after-k-removals/) Least Number of Unique Integers after K Removals                             | O(n*log(n)) | O(n)   | 24.79 |
 
 *RET - Relative Execution Time. How many percents my solution beats others' by performance.
