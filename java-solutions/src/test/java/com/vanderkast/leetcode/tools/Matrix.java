@@ -10,10 +10,11 @@ public class Matrix {
     }
 
     public static int[][] matrix(String view) {
+        view = view.strip();
         if (view.charAt(0) != '[')
-            throw new IllegalArgumentException("Row view must start with \"[\"");
+            throw new IllegalArgumentException("Matrix view must start with \"[\"");
         if (view.charAt(view.length() - 1) != ']')
-            throw new IllegalArgumentException("Row view must start with \"[\"");
+            throw new IllegalArgumentException("Matrix view must end with \"]\"");
         if (view.length() == 2)
             return new int[][]{};
         String[] rows = view.substring(1, view.length() - 1).split("],\\s*\\[");

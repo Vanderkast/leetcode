@@ -14,7 +14,7 @@ public class ResourcesUtils {
                 .parse(content);
     }
 
-    private static String readResourceFileContent(String fileName) throws IOException {
+    public static String readResourceFileContent(String fileName) throws IOException {
         ClassLoader classLoader = ResourcesUtils.class.getClassLoader();
         InputStream inputStream = classLoader.getResourceAsStream(fileName);
 
