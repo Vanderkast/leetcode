@@ -105,5 +105,6 @@ Prefix symbol in problem number indicates program language that was used to solv
 | [j1481](https://leetcode.com/problems/least-number-of-unique-integers-after-k-removals/) Least Number of Unique Integers after K Removals                             | O(n*log(n))   | O(n)   | 24.79 |
 | [j1642](https://leetcode.com/problems/furthest-building-you-can-reach/) Furthest Building You Can Reach                                                               | O(n)          | O(n)   | 69.61 |
 | [j2402](https://leetcode.com/problems/meeting-rooms-iii/) Meeting Rooms III                                                                                           | O(n*m*log(m)) | O(n)   | 92.64 |
+| [j231](https://leetcode.com/problems/power-of-two/) Power of Two                                                                                                      | O(n)          | O(1)   | 100   |
 
 *RET - Relative Execution Time. How many percents my solution beats others' by performance.
