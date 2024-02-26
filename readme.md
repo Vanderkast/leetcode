@@ -108,5 +108,6 @@ Prefix symbol in problem number indicates program language that was used to solv
 | [j231](https://leetcode.com/problems/power-of-two/) Power of Two                                                                                                      | O(n)          | O(1)   | 100   |
 | [j2149](https://leetcode.com/problems/rearrange-array-elements-by-sign/) Rearrange Array Elements by Sign                                                             | O(n)          | O(1)   | 100   |
 | [j268](https://leetcode.com/problems/missing-number/) Missing Number                                                                                                  | O(n)          | O(1)   | 100   |
+| [j787](https://leetcode.com/problems/cheapest-flights-within-k-stops/) Cheapest Flights Within K Stops                                                                | O(n*k)        | O(n)   | 15.82 |
 
 *RET - Relative Execution Time. How many percents my solution beats others' by performance.
