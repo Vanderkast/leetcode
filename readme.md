@@ -111,5 +111,6 @@ Prefix symbol in problem number indicates program language that was used to solv
 | [j787](https://leetcode.com/problems/cheapest-flights-within-k-stops/) Cheapest Flights Within K Stops                                                                | O(n*k)        | O(n)   | 15.82 |
 | [j100](https://leetcode.com/problems/same-tree/) Same Tree                                                                                                            | O(n)          | O(1)   | 100   |
 | [j513](https://leetcode.com/problems/find-bottom-left-tree-value/) Find Bottom Left Tree Value                                                                        | O(n)          | O(1)   | 100   |
+| [j2864](hhttps://leetcode.com/problems/maximum-odd-binary-number/) Maximum Odd Binary Number                                                                          | O(n)          | O(1)   | 22.90 |
 
 *RET - Relative Execution Time. How many percents my solution beats others' by performance.
