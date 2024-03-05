@@ -113,5 +113,6 @@ Prefix symbol in problem number indicates program language that was used to solv
 | [j513](https://leetcode.com/problems/find-bottom-left-tree-value/) Find Bottom Left Tree Value                                                                        | O(n)          | O(1)   | 100   |
 | [j2864](https://leetcode.com/problems/maximum-odd-binary-number/) Maximum Odd Binary Number                                                                           | O(n)          | O(1)   | 22.90 |
 | [j948](https://leetcode.com/problems/bag-of-tokens/) Bag Of Tokens                                                                                                    | O(n*log(n))   | O(1)   | 37.26 |
+| [j1750](https://leetcode.com/problems/minimum-length-of-string-after-deleting-similar-ends/) Minimum Length of String After Deleting Similar Ends                     | O(n)          | O(1)   | 100   |
 
 *RET - Relative Execution Time. How many percents my solution beats others' by performance.
