@@ -116,5 +116,6 @@ Prefix symbol in problem number indicates program language that was used to solv
 | [j1750](https://leetcode.com/problems/minimum-length-of-string-after-deleting-similar-ends/) Minimum Length of String After Deleting Similar Ends                     | O(n)          | O(1)   | 100   |
 | [j1768](https://leetcode.com/problems/merge-strings-alternately/) Merge Strings Alternately                                                                           | O(m*n)        | O(m*n) | 100   |
 | [j3005](https://leetcode.com/problems/count-elements-with-maximum-frequency/) Count Elements With Maximum Frequency                                                   | O(n)          | O(1)   | 99.64 |
+| [j2540](https://leetcode.com/problems/minimum-common-value/) Minimum Common Value                                                                                     | O(n)          | O(1)   | 96.67 |
 
 *RET - Relative Execution Time. How many percents my solution beats others' by performance.
