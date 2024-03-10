@@ -118,5 +118,6 @@ Prefix symbol in problem number indicates program language that was used to solv
 | [j3005](https://leetcode.com/problems/count-elements-with-maximum-frequency/) Count Elements With Maximum Frequency                                                   | O(n)          | O(1)   | 99.64 |
 | [j2540](https://leetcode.com/problems/minimum-common-value/) Minimum Common Value                                                                                     | O(n)          | O(1)   | 96.67 |
 | [j349](https://leetcode.com/problems/intersection-of-two-arrays/) Intersection of Two Arrays                                                                          | O(n)          | O(1)   | 100   |
+| [j1071](https://leetcode.com/problems/greatest-common-divisor-of-strings/) Greatest Common Divisor of Strings                                                         | O(n)          | O(1)   | 70.20 |
 
 *RET - Relative Execution Time. How many percents my solution beats others' by performance.
