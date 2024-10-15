@@ -6,3 +6,5 @@ mod r540;
 mod r1009;
 #[allow(dead_code)]
 mod r2530;
+#[allow(dead_code)]
+mod r2938;

@@ -120,5 +120,6 @@ Prefix symbol in problem number indicates program language that was used to solv
 | [j349](https://leetcode.com/problems/intersection-of-two-arrays/) Intersection of Two Arrays                                                                          | O(n)                 | O(1)   | 100   |
 | [j1071](https://leetcode.com/problems/greatest-common-divisor-of-strings/) Greatest Common Divisor of Strings                                                         | O(n)                 | O(1)   | 70.20 |
 | [r2530](https://leetcode.com/problems/maximal-score-after-applying-k-operations/) Maximal Score After Applying K Operations                                           | O(n*log(n)+k*log(n)) | O(n)   | 100   |
+| [r2938](https://leetcode.com/problems/separate-black-and-white-balls/) Separate Black and White Balls                                                                 | O(n)                 | O(1)   | 40    |
 
 *RET - Relative Execution Time. How many percents my solution beats others' by performance.
