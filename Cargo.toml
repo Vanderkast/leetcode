@@ -1,7 +1,5 @@
 [workspace]
 
 members = [
-    "r448",
-    "r540",
     "rust_solutions"
 ]
