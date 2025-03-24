@@ -8,3 +8,5 @@ mod r1009;
 mod r2530;
 #[allow(dead_code)]
 mod r2938;
+#[allow(dead_code)]
+mod r3169;

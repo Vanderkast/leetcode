@@ -11,7 +11,7 @@ Prefix symbol in problem number indicates program language that was used to solv
 
 | Problem                                                                                                                                                               | Runtime              | Memory | RET*  |
 |-----------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------|--------|-------|
-| ----- 2021 -----                                                                                                                                                      | --------             | ------ | ----- |
+| ----- 2021 -----                                                                                                                                                      | -----                | -----  | ----- |
 | [j496](https://leetcode.com/problems/next-greater-element-i/)                                                                                                         | O(n)                 | -      | 89.26 |
 | [j380](https://leetcode.com/problems/insert-delete-getrandom-o1/)                                                                                                     | ~O(1)                | -      | 41.00 |
 | [j704](https://leetcode.com/problems/binary-search/)                                                                                                                  | O(log(n))            | -      | 100   |
@@ -23,7 +23,7 @@ Prefix symbol in problem number indicates program language that was used to solv
 | [r540](https://leetcode.com/problems/single-element-in-a-sorted-array/)                                                                                               | O(log(n))            | -      | 100   |
 | [j876](https://leetcode.com/problems/middle-of-the-linked-list/)                                                                                                      | O(n)                 | -      | 100   |
 | [j1640](https://leetcode.com/problems/check-array-formation-through-concatenation/)                                                                                   | O(n)                 | -      | 100   |
-| ----- 2022 -----                                                                                                                                                      | --------             | ------ | ----- |
+| ----- 2022 -----                                                                                                                                                      | -----                | -----  | ----- |
 | [j1010](https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60/)                                                                           | O(n)                 | -      | 99.65 |
 | [j997](https://leetcode.com/problems/find-the-town-judge/)                                                                                                            | O(n)                 | -      | 81.43 |
 | [r1009](https://leetcode.com/problems/complement-of-base-10-integer/)                                                                                                 | O(n)                 | -      | 100   |
@@ -40,7 +40,7 @@ Prefix symbol in problem number indicates program language that was used to solv
 | [j70](https://leetcode.com/problems/climbing-stairs/) Climbing Stairs                                                                                                 | O(n)                 | -      | 100   |
 | [j237](hhttps://leetcode.com/problems/delete-node-in-a-linked-list/) Delete Node in a Linked List                                                                     | O(n)                 | -      | 100   |
 | [j509](https://leetcode.com/problems/fibonacci-number/) Fibonacci Number                                                                                              | O(n)                 | -      | 100   |
-| ----- 2023 -----                                                                                                                                                      | --------             | ------ | ----- |
+| ----- 2023 -----                                                                                                                                                      | -----                | -----  | ----- |
 | [j392](https://leetcode.com/problems/is-subsequence/)                                                                                                                 | O(n)                 | -      | 88.45 |
 | [j64](https://leetcode.com/problems/minimum-path-sum/)                                                                                                                | O(n)                 | -      | 77.41 |
 | [j62](https://leetcode.com/problems/unique-paths/)                                                                                                                    | O(n)                 | -      | 100   |
@@ -76,7 +76,7 @@ Prefix symbol in problem number indicates program language that was used to solv
 | [j1496](https://leetcode.com/problems/path-crossing/) Path Crossing                                                                                                   | O(n)                 | O(n)   | 100   |
 | [j1758](https://leetcode.com/problems/minimum-changes-to-make-alternating-binary-string/) Minimum Changes To Make Alternating Binary String                           | O(n)                 | O(1)   | 74.75 |
 | [j1578](https://leetcode.com/problems/minimum-time-to-make-rope-colorful/) Minimum Time to Make Rope Colorful                                                         | O(n)                 | O(1)   | 61.18 |
-| ----- 2024 -----                                                                                                                                                      | --------             | ------ | ----- |
+| ----- 2024 -----                                                                                                                                                      | -----                | -----  | ----- |
 | [j1704](https://leetcode.com/problems/determine-if-string-halves-are-alike/) Determine if String Halves Are Alike                                                     | O(n)                 | O(1)   | 42.07 |
 | [j1347](https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram/) Minimum Number of Steps to Make Two Strings Anagram                       | O(n)                 | O(1)   | 90.58 |
 | [j1657](https://leetcode.com/problems/determine-if-two-strings-are-close/) Determine if Two Strings Are Close                                                         | O(n)                 | O(1)   | 78.03 |
@@ -121,5 +121,7 @@ Prefix symbol in problem number indicates program language that was used to solv
 | [j1071](https://leetcode.com/problems/greatest-common-divisor-of-strings/) Greatest Common Divisor of Strings                                                         | O(n)                 | O(1)   | 70.20 |
 | [r2530](https://leetcode.com/problems/maximal-score-after-applying-k-operations/) Maximal Score After Applying K Operations                                           | O(n*log(n)+k*log(n)) | O(n)   | 100   |
 | [r2938](https://leetcode.com/problems/separate-black-and-white-balls/) Separate Black and White Balls                                                                 | O(n)                 | O(1)   | 40    |
+| ----- 2024 -----                                                                                                                                                      |                      |        |       |
+| [r3169](https://leetcode.com/problems/count-days-without-meetings/) Count Days Without Meetings                                                                       | O(n^2*log(n))        | O(n)   | 91.67 |
 
 *RET - Relative Execution Time. How many percents my solution beats others' by performance.
