@@ -121,7 +121,8 @@ Prefix symbol in problem number indicates program language that was used to solv
 | [j1071](https://leetcode.com/problems/greatest-common-divisor-of-strings/) Greatest Common Divisor of Strings                                                         | O(n)                 | O(1)   | 70.20 |
 | [r2530](https://leetcode.com/problems/maximal-score-after-applying-k-operations/) Maximal Score After Applying K Operations                                           | O(n*log(n)+k*log(n)) | O(n)   | 100   |
 | [r2938](https://leetcode.com/problems/separate-black-and-white-balls/) Separate Black and White Balls                                                                 | O(n)                 | O(1)   | 40    |
-| ----- 2024 -----                                                                                                                                                      |                      |        |       |
+| ----- 2025 -----                                                                                                                                                      |                      |        |       |
 | [r3169](https://leetcode.com/problems/count-days-without-meetings/) Count Days Without Meetings                                                                       | O(n^2*log(n))        | O(n)   | 91.67 |
+| [r2140](https://leetcode.com/problems/solving-questions-with-brainpower/) Solving Questions With Brainpower                                                           | O(n)                 | O(n)   | 47.50 |
 
 *RET - Relative Execution Time. How many percents my solution beats others' by performance.
