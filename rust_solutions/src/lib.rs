@@ -12,3 +12,4 @@ mod r2938;
 mod r3169;
 #[allow(dead_code)]
 mod r2873;
+mod r2874;
