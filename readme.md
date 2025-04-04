@@ -126,5 +126,6 @@ Prefix symbol in problem number indicates program language that was used to solv
 | [j2140](https://leetcode.com/problems/solving-questions-with-brainpower/) Solving Questions With Brainpower                                                           | O(n)                 | O(n)   | 47.50 |
 | [r2873](https://leetcode.com/problems/maximum-value-of-an-ordered-triplet-i/) Maximum Value of an Ordered Triplet I                                                   | O(n^3)               | O(1)   | 100   |
 | [r2874](https://leetcode.com/problems/maximum-value-of-an-ordered-triplet-ii/) Maximum Value of an Ordered Triplet II                                                 | O(n)                 | O(n)   | 100   |
+| [j1123](https://leetcode.com/problems/lowest-common-ancestor-of-deepest-leaves/) Lowest Common Ancestor of Deepest Leaves                                             | O(n)                 | O(n)   | 100   |
 
 *RET - Relative Execution Time. How many percents my solution beats others' by performance.
