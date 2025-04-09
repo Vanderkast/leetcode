@@ -4,7 +4,7 @@ import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.*;
 
-class GreatestCommonDivisorOfStringsTest {
+abstract class GreatestCommonDivisorOfStringsTest {
     private final GreatestCommonDivisorOfStrings solution;
 
     GreatestCommonDivisorOfStringsTest(GreatestCommonDivisorOfStrings solution) {

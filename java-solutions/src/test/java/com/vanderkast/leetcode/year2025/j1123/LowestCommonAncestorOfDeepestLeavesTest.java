@@ -5,7 +5,7 @@ import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.*;
 
-class LowestCommonAncestorOfDeepestLeavesTest {
+abstract class LowestCommonAncestorOfDeepestLeavesTest {
     private final LowestCommonAncestorOfDeepestLeaves solution = new LowestCommonAncestorOfDeepestLeaves();
 
     @Test
