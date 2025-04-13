@@ -16,3 +16,4 @@ mod r2874;
 mod r3396;
 mod r1431;
 mod r3272;
+mod r1992;

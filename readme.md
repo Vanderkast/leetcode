@@ -131,5 +131,7 @@ Prefix symbol in problem number indicates program language that was used to solv
 | [r3396](https://leetcode.com/problems/minimum-number-of-operations-to-make-elements-in-array-distinct/) Minimum Number of Operations to Make Elements in Array Distinct | O(n)                 | O(1)     | 100   |
 | [r1431](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/) Kids With the Greatest Number of Candies                                               | O(n)                 | O(n)     | 100   |
 | [j3375](https://leetcode.com/problems/minimum-operations-to-make-array-values-equal-to-k/) Minimum Operations to Make Array Values Equal to K                           | O(n)                 | O(1)     | 100   |
+| [r3272](https://leetcode.com/problems/find-the-count-of-good-integers/) Find the Count of Good Integers                                                                 | ---                  | ---      | 20    |
+| [r1992](https://leetcode.com/problems/count-good-numbers/) Count Good Numbers                                                                                           | O(n)                 | O(1)     | 100   |
 
 *RET - Relative Execution Time. How many percents my solution beats others' by performance.
