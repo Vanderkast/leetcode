@@ -133,5 +133,6 @@ Prefix symbol in problem number indicates program language that was used to solv
 | [j3375](https://leetcode.com/problems/minimum-operations-to-make-array-values-equal-to-k/) Minimum Operations to Make Array Values Equal to K                           | O(n)                 | O(1)     | 100   |
 | [r3272](https://leetcode.com/problems/find-the-count-of-good-integers/) Find the Count of Good Integers                                                                 | ---                  | ---      | 20    |
 | [r1992](https://leetcode.com/problems/count-good-numbers/) Count Good Numbers                                                                                           | O(n)                 | O(1)     | 100   |
+| [j1534](https://leetcode.com/problems/count-good-triplets/) Count Good Triplets                                                                                         | O(n^3)               | O(1)     | 95.55 |
 
 *RET - Relative Execution Time. How many percents my solution beats others' by performance.
