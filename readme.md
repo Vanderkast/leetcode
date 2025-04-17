@@ -134,5 +134,6 @@ Prefix symbol in problem number indicates program language that was used to solv
 | [r3272](https://leetcode.com/problems/find-the-count-of-good-integers/) Find the Count of Good Integers                                                                 | ---                  | ---      | 20    |
 | [r1992](https://leetcode.com/problems/count-good-numbers/) Count Good Numbers                                                                                           | O(n)                 | O(1)     | 100   |
 | [j1534](https://leetcode.com/problems/count-good-triplets/) Count Good Triplets                                                                                         | O(n^3)               | O(1)     | 95.55 |
+| [j2176](https://leetcode.com/problems/count-equal-and-divisible-pairs-in-an-array/) Count Equal and Divisible Pairs in an Array                                         | O(n)                 | O(1)     | 98.65 |
 
 *RET - Relative Execution Time. How many percents my solution beats others' by performance.
