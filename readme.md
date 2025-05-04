@@ -136,5 +136,6 @@ Prefix symbol in problem number indicates program language that was used to solv
 | [j1534](https://leetcode.com/problems/count-good-triplets/) Count Good Triplets                                                                                         | O(n^3)               | O(1)     | 95.55 |
 | [j2176](https://leetcode.com/problems/count-equal-and-divisible-pairs-in-an-array/) Count Equal and Divisible Pairs in an Array                                         | O(n)                 | O(1)     | 98.65 |
 | [j1007](https://leetcode.com/problems/minimum-domino-rotations-for-equal-row/) Minimum Domino Rotations For Equal Row                                                   | O(n)                 | O(1)     | 54.93 |
+| [j1128](https://leetcode.com/problems/number-of-equivalent-domino-pairs/) Number of Equivalent Domino Pairs                                                             | O(n)                 | O(1)     | 91.60 |
 
 *RET - Relative Execution Time. How many percents my solution beats others' by performance.
