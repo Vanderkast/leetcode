@@ -2,19 +2,13 @@ struct Solution;
 
 impl Solution {
     pub fn find_disappeared_numbers(nums: Vec<i32>) -> Vec<i32> {
-        let mut dissappeared: Vec<i32> = (1..=nums.len())
-            .map(|i| { i as i32 })
-            .collect();
+        let mut dissappeared: Vec<i32> = (1..=nums.len()).map(|i| i as i32).collect();
 
         for num in nums {
             dissappeared[(num - 1) as usize] = -1;
         }
 
-        dissappeared.into_iter()
-            .filter(|n| {
-                *n != -1
-            })
-            .collect()
+        dissappeared.into_iter().filter(|n| *n != -1).collect()
     }
 }
 

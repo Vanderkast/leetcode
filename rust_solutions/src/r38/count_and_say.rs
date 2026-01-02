@@ -17,7 +17,7 @@ impl Solution {
                 }
             }
             seq.push(count);
-            seq.push(* prev.last().unwrap());
+            seq.push(*prev.last().unwrap());
             prev = seq;
         }
 

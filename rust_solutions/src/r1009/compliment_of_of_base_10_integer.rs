@@ -3,7 +3,7 @@ struct Solution;
 impl Solution {
     pub fn bitwise_complement(mut n: i32) -> i32 {
         if n == 0 {
-            return 1
+            return 1;
         }
         let mut compliment = 0;
         let mut tmp = 1;
