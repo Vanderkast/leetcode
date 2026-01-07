@@ -136,6 +136,8 @@ Prefix symbol in problem number indicates program language that was used to solv
 | [j1534](https://leetcode.com/problems/count-good-triplets/) Count Good Triplets                                                                                         | O(n^3)               | O(1)     | 95.55 |
 | [j2537](https://leetcode.com/problems/count-the-number-of-good-subarrays/) Count the Number of Good Subarrays                                                           | O(n)                 | O(n)     | 74.42 |
 | [r38](https://leetcode.com/problems/count-and-say/description/) Count and Say                                                                                           | O(2^n)               | O(2^n)   | 100   |
+| ----- 2026 -----                                                                                                                                                        | -----                | -----    | ----- |
 | [r961](https://leetcode.com/problems/n-repeated-element-in-size-2n-array/) N-Repeated Element in Size 2N Array                                                          | O(n)                 | O(n)     | 100   |
+| [j1339](https://leetcode.com/problems/maximum-product-of-splitted-binary-tree/). Maximum Product of Splitted Binary Tree                                                | O(n)                 | O(1)     | 99.22 |
 
 *RET - Relative Execution Time. How many percents my solution beats others' by performance.
