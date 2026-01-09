@@ -1,4 +1,4 @@
-package com.vanderkast.leetcode.year2025.j1458;
+package com.vanderkast.leetcode.year2026.j1458;
 
 public class MaxDotProductOfTwoSubsequences {
     public int maxDotProduct(int[] a, int[] b) {

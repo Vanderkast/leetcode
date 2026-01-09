@@ -1,5 +1,6 @@
 package com.vanderkast.leetcode.year2025.j1458;
 
+import com.vanderkast.leetcode.year2026.j1458.MaxDotProductOfTwoSubsequences;
 import org.junit.jupiter.params.ParameterizedTest;
 import org.junit.jupiter.params.provider.Arguments;
 import org.junit.jupiter.params.provider.MethodSource;
