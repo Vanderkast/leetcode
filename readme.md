@@ -143,5 +143,6 @@ Prefix symbol in problem number indicates program language that was used to solv
 | [j1458](https://leetcode.com/problems/max-dot-product-of-two-subsequences/). Max Dot Product of Two Subsequences                                                        | O(n*m)               | O(n*m)   | 45.19 | 
 | [j865](https://leetcode.com/problems/smallest-subtree-with-all-the-deepest-nodes/). Smallest Subtree with all the Deepest Nodes                                         | O(n)                 | O(n)     | 100   |
 | [j712](https://leetcode.com/problems/minimum-ascii-delete-sum-for-two-strings). Minimum ASCII Delete Sum for Two Strings                                                | O(n*m)               | O(n*m)   | 84.35 |
+| [j1266](https://leetcode.com/problems/minimum-time-visiting-all-points). Minimum Time Visiting All Points                                                               | O(n)                 | O(1)     | 95.28 |
 
 *RET - Relative Execution Time. How many percents my solution beats others' by performance.
